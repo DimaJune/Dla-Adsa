@@ -1,0 +1,109 @@
+{
+    "CompleterNpc": "Илюха забивной",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 1b,
+    "Title": "закусончик1",
+    "Text": "брат, при.. п й-ик, принеси за-ку-со-чки. буду примоного балагадарен. й-ик",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1740581049845L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 1b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tacz:modern_kinetic_gun",
+                "Count": 1b,
+                "tag": {
+                    "HasBulletInBarrel": 1b,
+                    "GunFireMode": "SEMI",
+                    "GunId": "suffuse:tt33",
+                    "GunCurrentAmmoCount": 7
+                }
+            },
+            {
+                "Slot": 1b,
+                "id": "tacz:modern_kinetic_gun",
+                "Count": 1b,
+                "tag": {
+                    "HasBulletInBarrel": 1b,
+                    "GunFireMode": "SEMI",
+                    "GunId": "suffuse:tt33",
+                    "GunCurrentAmmoCount": 7
+                }
+            },
+            {
+                "Slot": 2b,
+                "id": "tacz:modern_kinetic_gun",
+                "Count": 1b,
+                "tag": {
+                    "HasBulletInBarrel": 1b,
+                    "GunFireMode": "SEMI",
+                    "GunId": "suffuse:tt33",
+                    "GunCurrentAmmoCount": 7
+                }
+            },
+            {
+                "Slot": 3b,
+                "id": "tacz:ammo",
+                "Count": 20b,
+                "tag": {
+                    "AmmoId": "tacz:9mm"
+                }
+            },
+            {
+                "Slot": 4b,
+                "id": "tacz:ammo",
+                "Count": 20b,
+                "tag": {
+                    "AmmoId": "tacz:9mm"
+                }
+            },
+            {
+                "Slot": 5b,
+                "id": "tacz:ammo",
+                "Count": 20b,
+                "tag": {
+                    "AmmoId": "tacz:9mm"
+                }
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:apple",
+                "Count": 5b
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "о, за-ку-соч-ка. Пасиб те мужик. й-ик, выручил. 
+вот те пострелять, у нас приго.. при.. при.. 
+[илюха отключился]"
+}

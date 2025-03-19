@@ -1,0 +1,1806 @@
+{
+    "bodyColor": 0,
+    "eyesColor": 0,
+    "ItemGiversList": [
+        {
+            "Long": 1740723895774L,
+            "Slot": 2
+        }
+    ],
+    "body": 0,
+    "isActive": 0b,
+    "DialogData": [
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 5
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 13
+        },
+        {
+            "Dialog": 14
+        },
+        {
+            "Dialog": 15
+        },
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 17
+        },
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 19
+        }
+    ],
+    "leg": 0,
+    "hair": 0,
+    "MailData": [
+    ],
+    "PlayerName": "adsfal",
+    "hairColor": 0,
+    "UUID": "5e89c527-8562-3b75-a385-46d9862d6e1d",
+    "ScriptStoreddata": {
+    },
+    "TransportData": [
+        {
+            "Transport": 1
+        }
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        },
+        {
+            "Points": 0,
+            "Faction": 2
+        }
+    ],
+    "BankData": [
+        {
+            "BankInv": [
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 0
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 1
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 2
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 3
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 4
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 5
+                }
+            ],
+            "UpdatedSlots": [
+                {
+                    "Slot": 0,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 1,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 2,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 3,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 4,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 5,
+                    "Boolean": 0b
+                }
+            ],
+            "DataBankId": 0,
+            "UnlockedSlots": 1
+        },
+        {
+            "BankInv": [
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "sosal_guns:svd-m",
+                                    "AttachmentSCOPE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "GunCurrentAmmoCount": 15
+                                }
+                            },
+                            {
+                                "Slot": 1b,
+                                "id": "serverpack:ipp",
+                                "Count": 2b
+                            },
+                            {
+                                "Slot": 2b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "tacz:ump45",
+                                    "GunCurrentAmmoCount": 7
+                                }
+                            },
+                            {
+                                "Slot": 4b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:sniper_extended_mag_3"
+                                }
+                            },
+                            {
+                                "Slot": 6b,
+                                "id": "lrarmor:medical_helmet",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 30
+                                }
+                            },
+                            {
+                                "Slot": 9b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "sosal_guns:toz-34",
+                                    "GunCurrentAmmoCount": 2
+                                }
+                            },
+                            {
+                                "Slot": 12b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 0,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:empty"
+                                }
+                            },
+                            {
+                                "Slot": 15b,
+                                "id": "lrarmor:defender_helmet",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 293
+                                }
+                            },
+                            {
+                                "Slot": 17b,
+                                "id": "minecraft:string",
+                                "Count": 37b
+                            },
+                            {
+                                "Slot": 19b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:scope_acog_ta31"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 83,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_cqr"
+                                        }
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:oem_stock_heavy"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 20b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:scope_acog_ta31"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 0,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_cqr"
+                                        }
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:oem_stock_heavy"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 22b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:scope_acog_ta31"
+                                }
+                            },
+                            {
+                                "Slot": 23b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 54b
+                            },
+                            {
+                                "Slot": 24b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 25b,
+                                "id": "serverpack:bintik",
+                                "Count": 4b
+                            },
+                            {
+                                "Slot": 26b,
+                                "id": "serverpack:bintik",
+                                "Count": 4b
+                            },
+                            {
+                                "Slot": 27b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 0b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "tacz:hk_mp5a5",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "ZoomNumber": 6,
+                                            "AttachmentId": "tacz:scope_acog_ta31"
+                                        }
+                                    },
+                                    "GunCurrentAmmoCount": 0
+                                }
+                            },
+                            {
+                                "Slot": 28b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "HasBulletInBarrel": 0b,
+                                    "GunId": "sosal_guns:svd-m",
+                                    "AttachmentSCOPE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "AttachmentMUZZLE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "GunFireMode": "SEMI",
+                                    "GunCurrentAmmoCount": 0
+                                }
+                            },
+                            {
+                                "Slot": 29b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 0b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:pp19",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:sight_552"
+                                        }
+                                    },
+                                    "GunCurrentAmmoCount": 0,
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:stock_tactical_ar"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 30b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "GunCurrentAmmoCount": 88
+                                }
+                            },
+                            {
+                                "Slot": 31b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "ZoomNumber": 1,
+                                            "AttachmentId": "tacz:scope_standard_8x"
+                                        }
+                                    },
+                                    "GunCurrentAmmoCount": 48,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_rk1_b25u"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 32b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 33b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 34b,
+                                "id": "minecraft:flint",
+                                "Count": 8b
+                            },
+                            {
+                                "Slot": 35b,
+                                "id": "minecraft:string",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 36b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 0,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:empty"
+                                }
+                            },
+                            {
+                                "Slot": 37b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:pkp",
+                                    "GunCurrentAmmoCount": 59
+                                }
+                            },
+                            {
+                                "Slot": 38b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:pkp",
+                                    "GunCurrentAmmoCount": 120
+                                }
+                            },
+                            {
+                                "Slot": 39b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:ammo_mod_hp"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 0b,
+                                    "GunId": "tacz:hk_mp5a5",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:sight_552"
+                                        }
+                                    },
+                                    "AttachmentMUZZLE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:muzzle_brake_trex"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 0,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_rk1_b25u"
+                                        }
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:stock_light2"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 40b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:scope_acog_ta31"
+                                }
+                            },
+                            {
+                                "Slot": 41b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:extended_mag_3"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "tacz:aa12",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:sight_coyote"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 0,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_td"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 42b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 43b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:stock_tactical_ar"
+                                }
+                            },
+                            {
+                                "Slot": 44b,
+                                "id": "minecraft:gunpowder",
+                                "Count": 6b
+                            },
+                            {
+                                "Slot": 45b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 0,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:empty"
+                                }
+                            },
+                            {
+                                "Slot": 46b,
+                                "id": "serverpack:bintik",
+                                "Count": 3b
+                            },
+                            {
+                                "Slot": 49b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "GunCurrentAmmoCount": 0,
+                                    "AttachmentGRIP": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 50b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:ammo_mod_hp"
+                                }
+                            },
+                            {
+                                "Slot": 51b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:scope_standard_8x"
+                                }
+                            },
+                            {
+                                "Slot": 52b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:pkp",
+                                    "GunCurrentAmmoCount": 120
+                                }
+                            },
+                            {
+                                "Slot": 53b,
+                                "id": "minecraft:prismarine_shard",
+                                "Count": 1b
+                            }
+                        ]
+                    },
+                    "Slot": 0
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:sight_coyote"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 120,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_cqr"
+                                        }
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:oem_stock_heavy"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 16b,
+                                "id": "lrarmor:medical_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 56
+                                }
+                            },
+                            {
+                                "Slot": 17b,
+                                "id": "lrarmor:medical_chestplate",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 8
+                                }
+                            },
+                            {
+                                "Slot": 38b,
+                                "id": "knock_down:injector",
+                                "Count": 2b
+                            },
+                            {
+                                "Slot": 39b,
+                                "id": "serverpack:ipp",
+                                "Count": 2b
+                            },
+                            {
+                                "Slot": 45b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "gucci_attachments:grip_td"
+                                }
+                            },
+                            {
+                                "Slot": 48b,
+                                "id": "minecraft:golden_apple",
+                                "Count": 26b
+                            },
+                            {
+                                "Slot": 49b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 0,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:empty"
+                                }
+                            },
+                            {
+                                "Slot": 50b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "ZoomNumber": 46,
+                                    "AttachmentId": "tacz:scope_elcan_4x"
+                                }
+                            },
+                            {
+                                "Slot": 51b,
+                                "id": "minecraft:cookie",
+                                "Count": 28b
+                            },
+                            {
+                                "Slot": 53b,
+                                "id": "serverpack:bintik",
+                                "Count": 2b
+                            }
+                        ]
+                    },
+                    "Slot": 1
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 11b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "tacz:ak47",
+                                    "GunCurrentAmmoCount": 30
+                                }
+                            },
+                            {
+                                "Slot": 18b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 4b
+                            },
+                            {
+                                "Slot": 19b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:tec9",
+                                    "GunCurrentAmmoCount": 0
+                                }
+                            },
+                            {
+                                "Slot": 21b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:ammo_mod_hp"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 0b,
+                                    "GunId": "tacz:hk_mp5a5",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:sight_552"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 0,
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:stock_light2"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 22b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "HasBulletInBarrel": 0b,
+                                    "GunId": "tacz:hk_mp5a5",
+                                    "AttachmentSCOPE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 0,
+                                    "AttachmentGRIP": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 26b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:ammo_mod_hp"
+                                }
+                            },
+                            {
+                                "Slot": 27b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:db_short",
+                                    "GunCurrentAmmoCount": 0
+                                }
+                            },
+                            {
+                                "Slot": 28b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "BURST",
+                                    "GunId": "tacz:db_short",
+                                    "GunCurrentAmmoCount": 0
+                                }
+                            },
+                            {
+                                "Slot": 29b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "BURST",
+                                    "GunId": "tacz:db_short",
+                                    "GunCurrentAmmoCount": 0
+                                }
+                            },
+                            {
+                                "Slot": 30b,
+                                "id": "minecraft:apple",
+                                "Count": 1b
+                            },
+                            {
+                                "Slot": 31b,
+                                "id": "minecraft:golden_apple",
+                                "Count": 8b
+                            },
+                            {
+                                "Slot": 32b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "suffuse:ash12",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:sight_552"
+                                        }
+                                    },
+                                    "AttachmentMUZZLE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 1,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_td"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 33b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:tec9",
+                                    "GunCurrentAmmoCount": 0
+                                }
+                            },
+                            {
+                                "Slot": 34b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:hk_g3",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 36b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "tacz:hk_mp5a5",
+                                    "AttachmentSCOPE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 17,
+                                    "AttachmentGRIP": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 37b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "tacz:ump45",
+                                    "GunCurrentAmmoCount": 25
+                                }
+                            },
+                            {
+                                "Slot": 38b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:hk_g3",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 41b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:hk_g3",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 42b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:hk_g3",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 43b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:hk_g3",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 45b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 0b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "suffuse:tt33",
+                                    "GunCurrentAmmoCount": 0
+                                }
+                            },
+                            {
+                                "Slot": 46b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:extended_mag_3"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 0b,
+                                    "GunId": "tacz:hk_g3",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "ZoomNumber": 7,
+                                            "AttachmentId": "tacz:scope_elcan_4x"
+                                        }
+                                    },
+                                    "AttachmentMUZZLE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:muzzle_silence_phantom_s1"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 0,
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:stock_tactical_ar"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 47b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:hk_g3",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 48b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:hk_g3",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 49b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:hk_g3",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 51b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:hk_g3",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 52b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:hk_g3",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 53b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:hk_g3",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            }
+                        ]
+                    },
+                    "Slot": 2
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 3
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "id": "serverpack:ipp",
+                                "Count": 2b
+                            },
+                            {
+                                "Slot": 1b,
+                                "id": "serverpack:ipp",
+                                "Count": 2b
+                            },
+                            {
+                                "Slot": 5b,
+                                "id": "serverpack:bintik",
+                                "Count": 2b
+                            },
+                            {
+                                "Slot": 6b,
+                                "id": "serverpack:ipp",
+                                "Count": 2b
+                            },
+                            {
+                                "Slot": 7b,
+                                "id": "serverpack:ipp",
+                                "Count": 2b
+                            },
+                            {
+                                "Slot": 8b,
+                                "id": "serverpack:ipp",
+                                "Count": 2b
+                            },
+                            {
+                                "Slot": 15b,
+                                "id": "serverpack:ipp",
+                                "Count": 2b
+                            },
+                            {
+                                "Slot": 16b,
+                                "id": "serverpack:bintik",
+                                "Count": 2b
+                            },
+                            {
+                                "Slot": 17b,
+                                "id": "serverpack:bintik",
+                                "Count": 4b
+                            },
+                            {
+                                "Slot": 18b,
+                                "id": "serverpack:ipp",
+                                "Count": 1b
+                            },
+                            {
+                                "Slot": 19b,
+                                "id": "serverpack:bintik",
+                                "Count": 3b
+                            },
+                            {
+                                "Slot": 24b,
+                                "id": "serverpack:bintik",
+                                "Count": 4b
+                            },
+                            {
+                                "Slot": 25b,
+                                "id": "serverpack:ipp",
+                                "Count": 2b
+                            },
+                            {
+                                "Slot": 26b,
+                                "id": "serverpack:bintik",
+                                "Count": 4b
+                            },
+                            {
+                                "Slot": 31b,
+                                "id": "minecraft:cookie",
+                                "Count": 11b
+                            },
+                            {
+                                "Slot": 40b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:pp19",
+                                    "GunCurrentAmmoCount": 64
+                                }
+                            },
+                            {
+                                "Slot": 41b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:ammo_mod_hp"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "tacz:hk_mp5a5",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:sight_552"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 10,
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:stock_light2"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 42b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:extended_mag_3"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "sosal_guns:svd-m",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "ZoomNumber": 213,
+                                            "AttachmentId": "tacz:scope_lpvo_1_6"
+                                        }
+                                    },
+                                    "AttachmentMUZZLE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:muzzle_silence_phantom_s1"
+                                        }
+                                    },
+                                    "GunFireMode": "SEMI",
+                                    "GunCurrentAmmoCount": 9
+                                }
+                            },
+                            {
+                                "Slot": 44b,
+                                "id": "tacz:ammo",
+                                "Count": 60b,
+                                "tag": {
+                                    "AmmoId": "tacz:762x39"
+                                }
+                            },
+                            {
+                                "Slot": 45b,
+                                "id": "serverpack:bintik",
+                                "Count": 4b
+                            },
+                            {
+                                "Slot": 47b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "HasBulletInBarrel": 0b,
+                                    "GunId": "tacz:hk_mp5a5",
+                                    "AttachmentSCOPE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "AttachmentMUZZLE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 0,
+                                    "AttachmentGRIP": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 48b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:ammo_mod_hp"
+                                }
+                            },
+                            {
+                                "Slot": 49b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:ammo_mod_hp"
+                                }
+                            },
+                            {
+                                "Slot": 50b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:ammo_mod_hp"
+                                }
+                            },
+                            {
+                                "Slot": 51b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:ammo_mod_hp"
+                                }
+                            },
+                            {
+                                "Slot": 52b,
+                                "id": "tacz:ammo",
+                                "Count": 6b,
+                                "tag": {
+                                    "AmmoId": "tacz:50bmg"
+                                }
+                            },
+                            {
+                                "Slot": 53b,
+                                "id": "tacz:ammo",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoId": "tacz:762x39"
+                                }
+                            }
+                        ]
+                    },
+                    "Slot": 4
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "id": "minecraft:repeating_command_block",
+                                "Count": 1b,
+                                "tag": {
+                                    "BlockEntityTag": {
+                                        "conditionMet": 1b,
+                                        "auto": 1b,
+                                        "CustomName": "{\"text\":\"@\"}",
+                                        "powered": 0b,
+                                        "Command": "execute as @e[distance=..10, tag=!tester] at @s run tp @s ^ ^0.5 ^0.5 facing entity @e[limit=1,tag=facer,sort=nearest]",
+                                        "LastExecution": 13430067L,
+                                        "id": "minecraft:command_block",
+                                        "SuccessCount": 0,
+                                        "TrackOutput": 1b,
+                                        "UpdateLastExecution": 1b
+                                    },
+                                    "display": {
+                                        "Lore": [
+                                            "\"(+NBT)\""
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 1b,
+                                "id": "minecraft:zombie_spawn_egg",
+                                "Count": 1b,
+                                "tag": {
+                                    "EntityTag": {
+                                        "Small": 1b,
+                                        "Health": 100000,
+                                        "Attributes": [
+                                            {
+                                                "Base": 100000.0f,
+                                                "Name": "generic.max_health"
+                                            }
+                                        ],
+                                        "NoBasePlate": 1b,
+                                        "Silent": 1b,
+                                        "Invulnerable": 1b,
+                                        "PersistenceRequired": 1b,
+                                        "id": "armor_stand",
+                                        "Invisible": 1b,
+                                        "NoAI": 1b,
+                                        "Tags": [
+                                            "facer"
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 17b,
+                                "id": "knock_down:injector",
+                                "Count": 5b
+                            },
+                            {
+                                "Slot": 18b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 0,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:empty"
+                                }
+                            },
+                            {
+                                "Slot": 19b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 0,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:empty"
+                                }
+                            },
+                            {
+                                "Slot": 24b,
+                                "id": "knock_down:injector",
+                                "Count": 3b
+                            },
+                            {
+                                "Slot": 25b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:sight_uh1"
+                                }
+                            },
+                            {
+                                "Slot": 26b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:muzzle_silence_ptilopsis"
+                                }
+                            },
+                            {
+                                "Slot": 27b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 172,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:762x39"
+                                }
+                            },
+                            {
+                                "Slot": 28b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 31,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:308"
+                                }
+                            },
+                            {
+                                "Slot": 33b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:ammo_mod_hp"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "tacz:hk_mp5a5",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:sight_552"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 39,
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:stock_light2"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 34b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:ammo_mod_hp"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "tacz:ak47",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "ZoomNumber": 51,
+                                            "AttachmentId": "tacz:scope_elcan_4x"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 24,
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:oem_stock_heavy"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 35b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:pp19",
+                                    "GunCurrentAmmoCount": 64
+                                }
+                            },
+                            {
+                                "Slot": 36b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 180,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:762x39"
+                                }
+                            },
+                            {
+                                "Slot": 37b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 144,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:308"
+                                }
+                            },
+                            {
+                                "Slot": 41b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 0,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:empty"
+                                }
+                            },
+                            {
+                                "Slot": 42b,
+                                "id": "minecraft:apple",
+                                "Count": 13b
+                            },
+                            {
+                                "Slot": 43b,
+                                "id": "minecraft:flint",
+                                "Count": 48b
+                            },
+                            {
+                                "Slot": 44b,
+                                "id": "minecraft:gold_ingot",
+                                "Count": 12b
+                            },
+                            {
+                                "Slot": 45b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 144,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:308"
+                                }
+                            },
+                            {
+                                "Slot": 46b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 180,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:762x39"
+                                }
+                            },
+                            {
+                                "Slot": 47b,
+                                "id": "minecraft:porkchop",
+                                "Count": 1b,
+                                "tag": {
+                                    "display": {
+                                        "Lore": [
+                                            "\"свежайшая кабанья мякоть! заряжает энергией на весь день!\""
+                                        ],
+                                        "Name": "\"мясо кабана\""
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 48b,
+                                "id": "minecraft:raw_iron",
+                                "Count": 1b,
+                                "tag": {
+                                    "display": {
+                                        "Lore": [
+                                            "\"сало, сало, сало...\""
+                                        ],
+                                        "Name": "\"кусок жира\""
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 49b,
+                                "id": "sosal_armor:tpok_tank_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 21
+                                }
+                            },
+                            {
+                                "Slot": 51b,
+                                "id": "minecraft:gunpowder",
+                                "Count": 30b
+                            },
+                            {
+                                "Slot": 52b,
+                                "id": "minecraft:prismarine_shard",
+                                "Count": 24b
+                            },
+                            {
+                                "Slot": 53b,
+                                "id": "minecraft:netherite_scrap",
+                                "Count": 13b
+                            }
+                        ]
+                    },
+                    "Slot": 5
+                }
+            ],
+            "UpdatedSlots": [
+                {
+                    "Slot": 0,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 1,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 2,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 3,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 4,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 5,
+                    "Boolean": 1b
+                }
+            ],
+            "DataBankId": 1,
+            "UnlockedSlots": 6
+        }
+    ],
+    "jacket": 0,
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 11880941L
+            },
+            {
+                "Quest": 2,
+                "Date": 28438078L
+            },
+            {
+                "Quest": 3,
+                "Date": 28439633L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "shoes": 0,
+    "ItemGiverChained": [
+    ],
+    "isMale": 0b,
+    "face": 0,
+    "peculiarities": [I;]
+}

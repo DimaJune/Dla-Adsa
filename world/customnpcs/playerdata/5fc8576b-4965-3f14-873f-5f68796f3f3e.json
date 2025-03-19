@@ -1,0 +1,3672 @@
+{
+    "bodyColor": 0,
+    "eyesColor": 0,
+    "ItemGiversList": [
+    ],
+    "body": 0,
+    "isActive": 0b,
+    "DialogData": [
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 19
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 13
+        },
+        {
+            "Dialog": 14
+        },
+        {
+            "Dialog": 15
+        }
+    ],
+    "leg": 0,
+    "hair": 0,
+    "MailData": [
+    ],
+    "PlayerName": "Imreq_e",
+    "hairColor": 0,
+    "UUID": "5fc8576b-4965-3f14-873f-5f68796f3f3e",
+    "ScriptStoreddata": {
+    },
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        },
+        {
+            "Points": 0,
+            "Faction": 2
+        }
+    ],
+    "BankData": [
+        {
+            "BankInv": [
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 1b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 0,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:empty"
+                                }
+                            },
+                            {
+                                "Slot": 2b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 0,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:empty"
+                                }
+                            },
+                            {
+                                "Slot": 3b,
+                                "id": "minecraft:cookie",
+                                "Count": 33b
+                            },
+                            {
+                                "Slot": 4b,
+                                "id": "minecraft:cookie",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 10b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 0,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:empty"
+                                }
+                            },
+                            {
+                                "Slot": 11b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 0,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:empty"
+                                }
+                            },
+                            {
+                                "Slot": 12b,
+                                "id": "lrarmor:defender_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 237
+                                }
+                            },
+                            {
+                                "Slot": 19b,
+                                "id": "lrarmor:defender_helmet",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 237
+                                }
+                            },
+                            {
+                                "Slot": 20b,
+                                "id": "lrarmor:defender_chestplate",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 237
+                                }
+                            },
+                            {
+                                "Slot": 21b,
+                                "id": "lrarmor:defender_boots",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 237
+                                }
+                            },
+                            {
+                                "Slot": 23b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:pp19",
+                                    "GunCurrentAmmoCount": 64
+                                }
+                            },
+                            {
+                                "Slot": 29b,
+                                "id": "minecraft:cookie",
+                                "Count": 3b
+                            },
+                            {
+                                "Slot": 31b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:ammo_mod_hp"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "tacz:hk_mp5a5",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:sight_552"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 32,
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:stock_light2"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 33b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:sniper_extended_mag_3"
+                                }
+                            },
+                            {
+                                "Slot": 35b,
+                                "id": "minecraft:apple",
+                                "Count": 3b
+                            },
+                            {
+                                "Slot": 37b,
+                                "id": "lrarmor:sniper_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 13
+                                }
+                            },
+                            {
+                                "Slot": 38b,
+                                "id": "lrarmor:defender_chestplate",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 199
+                                }
+                            },
+                            {
+                                "Slot": 39b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:oem_stock_heavy"
+                                }
+                            },
+                            {
+                                "Slot": 40b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:scope_lpvo_1_6"
+                                }
+                            },
+                            {
+                                "Slot": 41b,
+                                "id": "tacz:ammo",
+                                "Count": 60b,
+                                "tag": {
+                                    "AmmoId": "tacz:556x45"
+                                }
+                            },
+                            {
+                                "Slot": 42b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "gucci_attachments:grip_cqr"
+                                }
+                            },
+                            {
+                                "Slot": 43b,
+                                "id": "sosal_armor:bigpack_chestplate",
+                                "Count": 1b,
+                                "tag": {
+                                    "DisplayName": {
+                                        "Name": [
+                                            "павапепегемабоди"
+                                        ]
+                                    },
+                                    "Damage": 0,
+                                    "display": {
+                                        "Name": "{\"text\":\"зелебобо\"}"
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 44b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:ammo_mod_hp"
+                                }
+                            },
+                            {
+                                "Slot": 45b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:sniper_extended_mag_3"
+                                }
+                            },
+                            {
+                                "Slot": 46b,
+                                "id": "lrarmor:sniper_helmet",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 13
+                                }
+                            },
+                            {
+                                "Slot": 47b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:db_short",
+                                    "GunCurrentAmmoCount": 0
+                                }
+                            },
+                            {
+                                "Slot": 49b,
+                                "id": "tacz:ammo",
+                                "Count": 2b,
+                                "tag": {
+                                    "AmmoId": "tacz:50bmg"
+                                }
+                            },
+                            {
+                                "Slot": 50b,
+                                "id": "tacz:ammo_box",
+                                "Count": 1b,
+                                "tag": {
+                                    "AmmoCount": 0,
+                                    "Level": 0,
+                                    "AmmoId": "tacz:empty"
+                                }
+                            },
+                            {
+                                "Slot": 51b,
+                                "id": "minecraft:flint",
+                                "Count": 6b
+                            },
+                            {
+                                "Slot": 52b,
+                                "id": "tacz:ammo",
+                                "Count": 21b,
+                                "tag": {
+                                    "AmmoId": "tacz:556x45"
+                                }
+                            }
+                        ]
+                    },
+                    "Slot": 0
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 1b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 2b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 3b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 4b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 5b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 6b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 7b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 8b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 9b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 10b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 11b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 12b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 13b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 14b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 15b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 16b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 17b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 18b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 19b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 20b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 21b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 22b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 23b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 24b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 25b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 26b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 27b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 28b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 29b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 30b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 31b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 32b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 33b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 34b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 35b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 36b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 37b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 38b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 39b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 40b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 41b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 42b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 43b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 44b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 45b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 46b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 47b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 48b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 49b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 50b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 51b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 52b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 53b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            }
+                        ]
+                    },
+                    "Slot": 1
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "id": "minecraft:string",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 1b,
+                                "id": "minecraft:gold_ingot",
+                                "Count": 26b
+                            },
+                            {
+                                "Slot": 2b,
+                                "id": "minecraft:netherite_scrap",
+                                "Count": 24b
+                            },
+                            {
+                                "Slot": 5b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 6b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 7b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 8b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 9b,
+                                "id": "minecraft:string",
+                                "Count": 12b
+                            },
+                            {
+                                "Slot": 10b,
+                                "id": "minecraft:gunpowder",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 11b,
+                                "id": "minecraft:string",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 12b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 14b
+                            },
+                            {
+                                "Slot": 13b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 14b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 15b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 16b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 17b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 18b,
+                                "id": "minecraft:prismarine_shard",
+                                "Count": 54b
+                            },
+                            {
+                                "Slot": 19b,
+                                "id": "sosal_armor:tpok_tank_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 0
+                                }
+                            },
+                            {
+                                "Slot": 21b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 22b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 23b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 24b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 25b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 26b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 27b,
+                                "id": "sosal_armor:sparkarmor_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 0
+                                }
+                            },
+                            {
+                                "Slot": 28b,
+                                "id": "sosal_armor:sparkarmor_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 0
+                                }
+                            },
+                            {
+                                "Slot": 29b,
+                                "id": "sosal_armor:sparkarmor_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 0
+                                }
+                            },
+                            {
+                                "Slot": 30b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 31b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 32b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 33b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 34b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 35b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 36b,
+                                "id": "sosal_armor:sparkarmor_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 0
+                                }
+                            },
+                            {
+                                "Slot": 37b,
+                                "id": "sosal_armor:sparkarmor_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 0
+                                }
+                            },
+                            {
+                                "Slot": 38b,
+                                "id": "sosal_armor:sparkarmor_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 0
+                                }
+                            },
+                            {
+                                "Slot": 39b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 40b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 41b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 42b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 43b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 44b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 45b,
+                                "id": "sosal_armor:sparkarmor_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 0
+                                }
+                            },
+                            {
+                                "Slot": 46b,
+                                "id": "sosal_armor:sparkarmor_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 0
+                                }
+                            },
+                            {
+                                "Slot": 47b,
+                                "id": "sosal_armor:tpok_tank_leggings",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 181
+                                }
+                            },
+                            {
+                                "Slot": 48b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 49b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 50b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 51b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 52b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            },
+                            {
+                                "Slot": 53b,
+                                "id": "sosal_blocks:guntalon",
+                                "Count": 64b
+                            }
+                        ]
+                    },
+                    "Slot": 2
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 1b,
+                                "id": "customnpcs:npcsoulstonefilled",
+                                "Count": 1b,
+                                "tag": {
+                                    "DisplayName": "гоша.png",
+                                    "Entity": {
+                                        "ReturnToStart": 1b,
+                                        "Brain": {
+                                            "memories": {
+                                            }
+                                        },
+                                        "NpcInv": [
+                                        ],
+                                        "BossColor": 0,
+                                        "PotionEffect": 0,
+                                        "Size": 5,
+                                        "stopAndInteract": 0b,
+                                        "Resistances": {
+                                            "Arrow": 1.0f,
+                                            "Knockback": 2.0f,
+                                            "Melee": 1.0f,
+                                            "Explosion": 1.0f
+                                        },
+                                        "BossBar": 0b,
+                                        "RespawnTime": 480,
+                                        "NpcAngrySound": "",
+                                        "ReactsToFire": 0b,
+                                        "IgnoreCobweb": 0b,
+                                        "PositionOffsetZ": 5.0f,
+                                        "PositionOffsetY": 5.0f,
+                                        "PositionOffsetX": 5.0f,
+                                        "CanUpdate": 1b,
+                                        "LootMode": 0,
+                                        "TransformHasAI": 0b,
+                                        "AttackStrenght": 0,
+                                        "PersistenceRequired": 0b,
+                                        "id": "customnpcs:customnpc",
+                                        "IsStatue": 0b,
+                                        "MovingPatern": 0,
+                                        "NpcLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "DefendFaction": 0b,
+                                        "FireIndirect": 1,
+                                        "NpcVisible": 0,
+                                        "LinkedNpcName": "",
+                                        "NpcScenes": {
+                                            "Scenes": [
+                                            ]
+                                        },
+                                        "Bukkit.updateLevel": 2,
+                                        "HitSound": "tacz:gun",
+                                        "FindShelter": 2,
+                                        "Air": 300s,
+                                        "Orientation": 0,
+                                        "ScriptLanguage": "ECMAScript",
+                                        "HandItems": [
+                                            {
+                                            },
+                                            {
+                                            }
+                                        ],
+                                        "KnockBack": 0,
+                                        "TransformHasJob": 0b,
+                                        "ArmorDropChances": [
+                                            0.085f,
+                                            0.085f,
+                                            0.085f,
+                                            0.085f
+                                        ],
+                                        "BurnInSun": 0b,
+                                        "StandingState": 0,
+                                        "AttackInvisible": 0b,
+                                        "NpcInteractNPCLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "HurtTime": 0s,
+                                        "WorldUUIDLeast": -7228018660319373861L,
+                                        "WalkingRange": 10,
+                                        "ShotCount": 1,
+                                        "pDur": 5,
+                                        "AttackRange": 15,
+                                        "ActiveRange": 32,
+                                        "NpcKillLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "PotionImmune": 1b,
+                                        "AvoidsSun": 0b,
+                                        "Texture": "customnpcs:textures/entity/humanmale/steve.png",
+                                        "NpcJob": 0,
+                                        "BurstCount": 8,
+                                        "NpcAttackLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "pSpeed": 50,
+                                        "pArea": 0,
+                                        "DeathTime": 0s,
+                                        "pImpact": 0,
+                                        "MoveState": 0,
+                                        "Bukkit.Aware": 1b,
+                                        "pRender3D": 1b,
+                                        "Motion": [
+                                            0.0d,
+                                            -0.0784000015258789d,
+                                            0.0d
+                                        ],
+                                        "CombatRegen": 0,
+                                        "NpcsTimers": [
+                                        ],
+                                        "MarkovGender": 0,
+                                        "pEffect": 0,
+                                        "DistanceToMelee": 1,
+                                        "NpcStepSound": "",
+                                        "FireRate": 1,
+                                        "LeftHanded": 0b,
+                                        "pEffAmp": 0,
+                                        "OnGround": 1b,
+                                        "ImmuneToFire": 0b,
+                                        "OverlayGlowing": 1b,
+                                        "NpcKilledLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "Fire": -1s,
+                                        "ArmorItems": [
+                                            {
+                                            },
+                                            {
+                                            },
+                                            {
+                                            },
+                                            {
+                                            }
+                                        ],
+                                        "DisablePitch": 0b,
+                                        "pPhysics": 1b,
+                                        "TransformHasInv": 0b,
+                                        "NpcInteractLines": {
+                                            "Lines": [
+                                                {
+                                                    "Line": "Hello @p",
+                                                    "Slot": 0,
+                                                    "Song": ""
+                                                }
+                                            ]
+                                        },
+                                        "HurtByTimestamp": 1712048,
+                                        "pSpin": 1b,
+                                        "NpcHurtSound": "minecraft:entity.player.hurt",
+                                        "pTrail": 1,
+                                        "CreatureType": 0,
+                                        "Attributes": [
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "forge:step_height"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "minecraft:generic.armor"
+                                            },
+                                            {
+                                                "Base": 32.0d,
+                                                "Name": "minecraft:generic.follow_range"
+                                            },
+                                            {
+                                                "Base": 8.0d,
+                                                "Name": "forge:swim_speed"
+                                            },
+                                            {
+                                                "Base": 0.25d,
+                                                "Name": "minecraft:generic.movement_speed"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "minecraft:generic.armor_toughness"
+                                            },
+                                            {
+                                                "Base": 100.0d,
+                                                "Name": "minecraft:generic.max_health"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "minecraft:generic.attack_damage"
+                                            },
+                                            {
+                                                "Base": 0.5d,
+                                                "Name": "minecraft:generic.flying_speed"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "tacz:tacz.bullet_resistance"
+                                            },
+                                            {
+                                                "Base": 0.08d,
+                                                "Name": "forge:entity_gravity"
+                                            }
+                                        ],
+                                        "Invulnerable": 0b,
+                                        "TransformHasDisplay": 0b,
+                                        "NoFallDamage": 0b,
+                                        "AbsorptionAmount": 0.0f,
+                                        "TransformHasRole": 0b,
+                                        "Name": "гоша.png",
+                                        "FallDistance": 0.0f,
+                                        "SkinColor": 16777215,
+                                        "NpcIdleSound": "",
+                                        "Weapons": [
+                                            {
+                                                "Slot": 0b,
+                                                "id": "tacz:modern_kinetic_gun",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "HasBulletInBarrel": 1b,
+                                                    "GunFireMode": "AUTO",
+                                                    "GunId": "tacz:ak47",
+                                                    "GunCurrentAmmoCount": 30
+                                                }
+                                            },
+                                            {
+                                                "Slot": 1b,
+                                                "id": "minecraft:black_candle",
+                                                "Count": 1b
+                                            }
+                                        ],
+                                        "NPCDialogOptions": [
+                                        ],
+                                        "WorldUUIDMost": 4076095592190200132L,
+                                        "AggroRange": 8,
+                                        "DirectLOS": 1b,
+                                        "HealthRegen": 3,
+                                        "ForgeCaps": {
+                                            "tacz:synced_entity_data": [
+                                            ]
+                                        },
+                                        "HandDropChances": [
+                                            0.085f,
+                                            0.085f
+                                        ],
+                                        "NpcModelData": {
+                                            "CustomSkinUrl": "",
+                                            "BodyConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "MoveAnimation": 16,
+                                            "Legs2Config": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "SimpleRender": 0b,
+                                            "ArmsConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "ExtraData": {
+                                            },
+                                            "HeadConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "LegsConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "Arms2Config": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "Parts": [
+                                            ],
+                                            "NewParts": [
+                                            ],
+                                            "WingMode": 0,
+                                            "DisplayName": "",
+                                            "Animation": 0,
+                                            "ModelType": 0,
+                                            "LastEdited": 1740404783646L
+                                        },
+                                        "Spigot.ticksLived": 1821089,
+                                        "VisibleAvailability": {
+                                            "AvailabilityQuestId": -1,
+                                            "AvailabilityScoreboardType": 1,
+                                            "AvailabilityFactionStance": 0,
+                                            "AvailabilityScoreboard2Value": 1,
+                                            "AvailabilityQuest": 0,
+                                            "AvailabilityDialog4": 0,
+                                            "AvailabilityScoreboardObjective": "",
+                                            "AvailabilityDialog3": 0,
+                                            "AvailabilityQuest2": 0,
+                                            "AvailabilityQuest3": 0,
+                                            "AvailabilityScoreboard2Objective": "",
+                                            "AvailabilityQuest4": 0,
+                                            "ModRev": 18,
+                                            "AvailabilityDialog2": 0,
+                                            "AvailabilityDayTime": 0,
+                                            "AvailabilityFaction2Id": -1,
+                                            "AvailabilityScoreboardValue": 1,
+                                            "AvailabilityFaction": 0,
+                                            "AvailabilityDialog": 0,
+                                            "AvailabilityScoreboard2Type": 1,
+                                            "AvailabilityFaction2": 0,
+                                            "AvailabilityFactionId": -1,
+                                            "AvailabilityFaction2Stance": 0,
+                                            "AvailabilityDialogId": -1,
+                                            "AvailabilityQuest4Id": -1,
+                                            "AvailabilityQuest3Id": -1,
+                                            "AvailabilityQuest2Id": -1,
+                                            "AvailabilityDialog2Id": -1,
+                                            "AvailabilityDialog3Id": -1,
+                                            "AvailabilityDialog4Id": -1,
+                                            "AvailabilityMinPlayerLevel": 0
+                                        },
+                                        "minDelay": 20,
+                                        "DoorInteract": 1,
+                                        "MoveSpeed": 5,
+                                        "TransformEditingModus": 0b,
+                                        "UsingSkinUrl": 0b,
+                                        "SkinUrl": "",
+                                        "CanSwim": 1b,
+                                        "GroundSound": "minecraft:block.stone.break",
+                                        "MountControl": 0b,
+                                        "MaxHealth": 100,
+                                        "HideBodyWhenKilled": 1b,
+                                        "AttackSpeed": 40,
+                                        "PotionDuration": 5,
+                                        "maxDelay": 30,
+                                        "ScriptEnabled": 0b,
+                                        "Role": 0,
+                                        "DropChance": [
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 0
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 1
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 2
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 3
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 4
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 5
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 6
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 7
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 8
+                                            }
+                                        ],
+                                        "FactionPoints": {
+                                            "DecreaseFaction1Points": 0b,
+                                            "OptionFaction1Points": 100,
+                                            "OptionFaction2Points": 100,
+                                            "OptionFactions1": -1,
+                                            "DecreaseFaction2Points": 0b,
+                                            "OptionFactions2": -1
+                                        },
+                                        "pDamage": 5,
+                                        "KilledTime": 0L,
+                                        "AimWhileShooting": 0b,
+                                        "CanPickUpLoot": 0b,
+                                        "AttackOtherFactions": 0b,
+                                        "CanDrown": 1b,
+                                        "pSize": 5,
+                                        "CanSprint": 0b,
+                                        "CanLeap": 0b,
+                                        "TransformIsActive": 0b,
+                                        "ForgeData": {
+                                            "cnpcmarkdata": {
+                                                "marks": [
+                                                ]
+                                            }
+                                        },
+                                        "MovingState": 0,
+                                        "MovingPos": 0,
+                                        "PotionAmp": 0,
+                                        "OnAttack": 0,
+                                        "FallFlying": 0b,
+                                        "MaxExp": 0,
+                                        "OrderedLines": 0b,
+                                        "PortalCooldown": 0,
+                                        "pGlows": 1b,
+                                        "TransformHasAdvanced": 0b,
+                                        "TransformHasStats": 0b,
+                                        "MovementType": 0,
+                                        "FiringSound": "customnpcs:gun.pistol.shot",
+                                        "ModRev": 18,
+                                        "Accuracy": 95,
+                                        "MinExp": 0,
+                                        "Armor": [
+                                            {
+                                                "Slot": 0b,
+                                                "id": "lrarmor:attacker_helmet",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "Damage": 0
+                                                }
+                                            },
+                                            {
+                                                "Slot": 1b,
+                                                "id": "lrarmor:attacker_chestplate",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "Damage": 0
+                                                }
+                                            },
+                                            {
+                                                "Slot": 2b,
+                                                "id": "lrarmor:attacker_leggings",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "Damage": 0
+                                                }
+                                            },
+                                            {
+                                                "Slot": 3b,
+                                                "id": "lrarmor:attacker_boots",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "Damage": 0
+                                                }
+                                            }
+                                        ],
+                                        "CloakTexture": "",
+                                        "GlowTexture": "",
+                                        "MaxFiringRange": 40,
+                                        "pXlr8": 1b,
+                                        "MarkovGeneratorId": 8,
+                                        "Scripts": [
+                                        ],
+                                        "Health": 100.0f,
+                                        "pStick": 0b,
+                                        "MovingPause": 1b,
+                                        "NpcDeathSound": "minecraft:entity.player.hurt",
+                                        "FactionID": 2,
+                                        "Title": "",
+                                        "TotalTicksAlive": 909581L,
+                                        "Rotation": [
+                                            89.63548f,
+                                            0.0f
+                                        ],
+                                        "ShowName": 1,
+                                        "npcInteracting": 1b,
+                                        "AvoidsWater": 0b,
+                                        "NoLivingAnimation": 0b,
+                                        "SpawnCycle": 0
+                                    },
+                                    "Name": "customnpcs:customnpc"
+                                }
+                            },
+                            {
+                                "Slot": 3b,
+                                "id": "customnpcs:npcsoulstonefilled",
+                                "Count": 1b,
+                                "tag": {
+                                    "DisplayName": "кобан сосущий",
+                                    "Entity": {
+                                        "ReturnToStart": 1b,
+                                        "Brain": {
+                                            "memories": {
+                                            }
+                                        },
+                                        "NpcInv": [
+                                        ],
+                                        "BossColor": 0,
+                                        "PotionEffect": 2,
+                                        "Size": 4,
+                                        "stopAndInteract": 0b,
+                                        "Resistances": {
+                                            "Arrow": 1.0f,
+                                            "Knockback": 2.0f,
+                                            "Melee": 1.0f,
+                                            "Explosion": 1.0f
+                                        },
+                                        "BossBar": 0b,
+                                        "RespawnTime": 60,
+                                        "NpcAngrySound": "minecraft:entity.warden.listening_angry",
+                                        "ReactsToFire": 0b,
+                                        "IgnoreCobweb": 0b,
+                                        "PositionOffsetZ": 5.0f,
+                                        "PositionOffsetY": 5.0f,
+                                        "PositionOffsetX": 5.0f,
+                                        "CanUpdate": 1b,
+                                        "LootMode": 0,
+                                        "TransformHasAI": 0b,
+                                        "AttackStrenght": 4,
+                                        "PersistenceRequired": 0b,
+                                        "id": "customnpcs:customnpc",
+                                        "IsStatue": 0b,
+                                        "MovingPatern": 0,
+                                        "NpcLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "DefendFaction": 0b,
+                                        "FireIndirect": 0,
+                                        "NpcVisible": 0,
+                                        "LinkedNpcName": "",
+                                        "NpcScenes": {
+                                            "Scenes": [
+                                            ]
+                                        },
+                                        "Bukkit.updateLevel": 2,
+                                        "HitSound": "minecraft:entity.arrow.hit",
+                                        "FindShelter": 2,
+                                        "Air": 300s,
+                                        "Orientation": 0,
+                                        "ScriptLanguage": "ECMAScript",
+                                        "HandItems": [
+                                            {
+                                            },
+                                            {
+                                            }
+                                        ],
+                                        "KnockBack": 0,
+                                        "TransformHasJob": 0b,
+                                        "ArmorDropChances": [
+                                            0.085f,
+                                            0.085f,
+                                            0.085f,
+                                            0.085f
+                                        ],
+                                        "BurnInSun": 0b,
+                                        "StandingState": 0,
+                                        "AttackInvisible": 0b,
+                                        "NpcInteractNPCLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "HurtTime": 0s,
+                                        "WorldUUIDLeast": -7228018660319373861L,
+                                        "WalkingRange": 5,
+                                        "ShotCount": 1,
+                                        "pDur": 5,
+                                        "AttackRange": 2,
+                                        "ActiveRange": 32,
+                                        "NpcKillLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "PotionImmune": 0b,
+                                        "AvoidsSun": 0b,
+                                        "Texture": "minecraft:textures/entity/hoglin/hoglin.png",
+                                        "NpcJob": 0,
+                                        "BurstCount": 1,
+                                        "NpcAttackLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "pSpeed": 10,
+                                        "pArea": 0,
+                                        "DeathTime": 0s,
+                                        "pImpact": 0,
+                                        "MoveState": 0,
+                                        "Bukkit.Aware": 1b,
+                                        "pRender3D": 1b,
+                                        "Motion": [
+                                            0.0d,
+                                            -0.0784000015258789d,
+                                            0.0d
+                                        ],
+                                        "CombatRegen": 1,
+                                        "NpcsTimers": [
+                                        ],
+                                        "MarkovGender": 0,
+                                        "pEffect": 0,
+                                        "DistanceToMelee": 0,
+                                        "NpcStepSound": "minecraft:entity.warden.step",
+                                        "FireRate": 5,
+                                        "LeftHanded": 0b,
+                                        "pEffAmp": 0,
+                                        "OnGround": 1b,
+                                        "ImmuneToFire": 0b,
+                                        "OverlayGlowing": 1b,
+                                        "NpcKilledLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "Fire": -1s,
+                                        "ArmorItems": [
+                                            {
+                                            },
+                                            {
+                                            },
+                                            {
+                                            },
+                                            {
+                                            }
+                                        ],
+                                        "DisablePitch": 0b,
+                                        "pPhysics": 1b,
+                                        "TransformHasInv": 0b,
+                                        "NpcInteractLines": {
+                                            "Lines": [
+                                                {
+                                                    "Line": "Hello @p",
+                                                    "Slot": 0,
+                                                    "Song": ""
+                                                }
+                                            ]
+                                        },
+                                        "HurtByTimestamp": 8374,
+                                        "pSpin": 0b,
+                                        "NpcHurtSound": "minecraft:entity.warden.hurt",
+                                        "pTrail": 0,
+                                        "CreatureType": 0,
+                                        "Attributes": [
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "forge:step_height"
+                                            },
+                                            {
+                                                "Base": 32.0d,
+                                                "Name": "minecraft:generic.follow_range"
+                                            },
+                                            {
+                                                "Base": 9.600000381469727d,
+                                                "Name": "forge:swim_speed"
+                                            },
+                                            {
+                                                "Base": 0.30000001192092896d,
+                                                "Name": "minecraft:generic.movement_speed"
+                                            },
+                                            {
+                                                "Base": 45.0d,
+                                                "Name": "minecraft:generic.max_health"
+                                            },
+                                            {
+                                                "Base": 4.0d,
+                                                "Name": "minecraft:generic.attack_damage"
+                                            },
+                                            {
+                                                "Base": 0.6000000238418579d,
+                                                "Name": "minecraft:generic.flying_speed"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "tacz:tacz.bullet_resistance"
+                                            },
+                                            {
+                                                "Base": 0.08d,
+                                                "Name": "forge:entity_gravity"
+                                            }
+                                        ],
+                                        "Invulnerable": 0b,
+                                        "TransformHasDisplay": 0b,
+                                        "NoFallDamage": 1b,
+                                        "AbsorptionAmount": 0.0f,
+                                        "TransformHasRole": 0b,
+                                        "Name": "кобан сосущий",
+                                        "FallDistance": 0.0f,
+                                        "SkinColor": 16777215,
+                                        "NpcIdleSound": "minecraft:entity.warden.agitated",
+                                        "Weapons": [
+                                        ],
+                                        "NPCDialogOptions": [
+                                        ],
+                                        "WorldUUIDMost": 4076095592190200132L,
+                                        "AggroRange": 9,
+                                        "DirectLOS": 1b,
+                                        "HealthRegen": 3,
+                                        "ForgeCaps": {
+                                            "tacz:synced_entity_data": [
+                                            ]
+                                        },
+                                        "HandDropChances": [
+                                            0.085f,
+                                            0.085f
+                                        ],
+                                        "NpcModelData": {
+                                            "CustomSkinUrl": "",
+                                            "BodyConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "MoveAnimation": 16,
+                                            "EntityName": "minecraft:hoglin",
+                                            "Legs2Config": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "SimpleRender": 0b,
+                                            "ArmsConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "ExtraData": {
+                                            },
+                                            "HeadConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "LegsConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "Arms2Config": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "Parts": [
+                                            ],
+                                            "NewParts": [
+                                            ],
+                                            "WingMode": 0,
+                                            "DisplayName": "",
+                                            "Animation": 0,
+                                            "ModelType": 0,
+                                            "LastEdited": 1742028814652L
+                                        },
+                                        "Spigot.ticksLived": 15196,
+                                        "VisibleAvailability": {
+                                            "AvailabilityQuestId": -1,
+                                            "AvailabilityScoreboardType": 1,
+                                            "AvailabilityFactionStance": 0,
+                                            "AvailabilityScoreboard2Value": 1,
+                                            "AvailabilityQuest": 0,
+                                            "AvailabilityDialog4": 0,
+                                            "AvailabilityScoreboardObjective": "",
+                                            "AvailabilityDialog3": 0,
+                                            "AvailabilityQuest2": 0,
+                                            "AvailabilityQuest3": 0,
+                                            "AvailabilityScoreboard2Objective": "",
+                                            "AvailabilityQuest4": 0,
+                                            "ModRev": 18,
+                                            "AvailabilityDialog2": 0,
+                                            "AvailabilityDayTime": 0,
+                                            "AvailabilityFaction2Id": -1,
+                                            "AvailabilityScoreboardValue": 1,
+                                            "AvailabilityFaction": 0,
+                                            "AvailabilityDialog": 0,
+                                            "AvailabilityScoreboard2Type": 1,
+                                            "AvailabilityFaction2": 0,
+                                            "AvailabilityFactionId": -1,
+                                            "AvailabilityFaction2Stance": 0,
+                                            "AvailabilityDialogId": -1,
+                                            "AvailabilityQuest4Id": -1,
+                                            "AvailabilityQuest3Id": -1,
+                                            "AvailabilityQuest2Id": -1,
+                                            "AvailabilityDialog2Id": -1,
+                                            "AvailabilityDialog3Id": -1,
+                                            "AvailabilityDialog4Id": -1,
+                                            "AvailabilityMinPlayerLevel": 0
+                                        },
+                                        "minDelay": 20,
+                                        "DoorInteract": 2,
+                                        "MoveSpeed": 6,
+                                        "TransformEditingModus": 0b,
+                                        "UsingSkinUrl": 0b,
+                                        "SkinUrl": "",
+                                        "CanSwim": 1b,
+                                        "GroundSound": "minecraft:block.stone.break",
+                                        "MountControl": 0b,
+                                        "MaxHealth": 45,
+                                        "HideBodyWhenKilled": 0b,
+                                        "AttackSpeed": 40,
+                                        "PotionDuration": 2,
+                                        "maxDelay": 40,
+                                        "ScriptEnabled": 0b,
+                                        "Role": 0,
+                                        "DropChance": [
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 0
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 1
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 2
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 3
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 4
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 5
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 6
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 7
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 8
+                                            }
+                                        ],
+                                        "FactionPoints": {
+                                            "DecreaseFaction1Points": 0b,
+                                            "OptionFaction1Points": 100,
+                                            "OptionFaction2Points": 100,
+                                            "OptionFactions1": -1,
+                                            "DecreaseFaction2Points": 0b,
+                                            "OptionFactions2": -1
+                                        },
+                                        "pDamage": 4,
+                                        "KilledTime": 0L,
+                                        "AimWhileShooting": 0b,
+                                        "CanPickUpLoot": 0b,
+                                        "AttackOtherFactions": 0b,
+                                        "CanDrown": 1b,
+                                        "pSize": 5,
+                                        "CanSprint": 0b,
+                                        "CanLeap": 0b,
+                                        "TransformIsActive": 0b,
+                                        "ForgeData": {
+                                            "cnpcmarkdata": {
+                                                "marks": [
+                                                ]
+                                            }
+                                        },
+                                        "MovingState": 1,
+                                        "MovingPos": 0,
+                                        "PotionAmp": 1,
+                                        "OnAttack": 0,
+                                        "FallFlying": 0b,
+                                        "MaxExp": 0,
+                                        "OrderedLines": 0b,
+                                        "PortalCooldown": 0,
+                                        "pGlows": 0b,
+                                        "TransformHasAdvanced": 0b,
+                                        "TransformHasStats": 0b,
+                                        "MovementType": 0,
+                                        "FiringSound": "minecraft:entity.arrow.shoot",
+                                        "ModRev": 18,
+                                        "Accuracy": 60,
+                                        "MinExp": 0,
+                                        "Armor": [
+                                        ],
+                                        "CloakTexture": "",
+                                        "GlowTexture": "",
+                                        "MaxFiringRange": 15,
+                                        "pXlr8": 0b,
+                                        "MarkovGeneratorId": 2,
+                                        "Scripts": [
+                                        ],
+                                        "Health": 45.0f,
+                                        "pStick": 0b,
+                                        "MovingPause": 1b,
+                                        "NpcDeathSound": "minecraft:entity.warden.death",
+                                        "FactionID": 2,
+                                        "Title": "",
+                                        "TotalTicksAlive": 11577L,
+                                        "Rotation": [
+                                            331.64197f,
+                                            0.0f
+                                        ],
+                                        "ShowName": 1,
+                                        "npcInteracting": 1b,
+                                        "AvoidsWater": 0b,
+                                        "NoLivingAnimation": 0b,
+                                        "SpawnCycle": 0
+                                    },
+                                    "Name": "customnpcs:customnpc"
+                                }
+                            },
+                            {
+                                "Slot": 5b,
+                                "id": "customnpcs:npcsoulstonefilled",
+                                "Count": 1b,
+                                "tag": {
+                                    "DisplayName": "гоша.png",
+                                    "Entity": {
+                                        "ReturnToStart": 1b,
+                                        "Brain": {
+                                            "memories": {
+                                            }
+                                        },
+                                        "NpcInv": [
+                                        ],
+                                        "BossColor": 0,
+                                        "PotionEffect": 0,
+                                        "Size": 5,
+                                        "stopAndInteract": 0b,
+                                        "Resistances": {
+                                            "Arrow": 1.0f,
+                                            "Knockback": 2.0f,
+                                            "Melee": 1.0f,
+                                            "Explosion": 1.0f
+                                        },
+                                        "BossBar": 0b,
+                                        "RespawnTime": 480,
+                                        "NpcAngrySound": "",
+                                        "ReactsToFire": 0b,
+                                        "IgnoreCobweb": 0b,
+                                        "PositionOffsetZ": 5.0f,
+                                        "PositionOffsetY": 5.0f,
+                                        "PositionOffsetX": 5.0f,
+                                        "CanUpdate": 1b,
+                                        "LootMode": 0,
+                                        "TransformHasAI": 0b,
+                                        "AttackStrenght": 0,
+                                        "PersistenceRequired": 0b,
+                                        "id": "customnpcs:customnpc",
+                                        "IsStatue": 0b,
+                                        "MovingPatern": 0,
+                                        "NpcLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "DefendFaction": 0b,
+                                        "FireIndirect": 1,
+                                        "NpcVisible": 0,
+                                        "LinkedNpcName": "",
+                                        "NpcScenes": {
+                                            "Scenes": [
+                                            ]
+                                        },
+                                        "Bukkit.updateLevel": 2,
+                                        "HitSound": "tacz:gun",
+                                        "FindShelter": 2,
+                                        "Air": 300s,
+                                        "Orientation": 0,
+                                        "ScriptLanguage": "ECMAScript",
+                                        "HandItems": [
+                                            {
+                                            },
+                                            {
+                                            }
+                                        ],
+                                        "KnockBack": 0,
+                                        "TransformHasJob": 0b,
+                                        "ArmorDropChances": [
+                                            0.085f,
+                                            0.085f,
+                                            0.085f,
+                                            0.085f
+                                        ],
+                                        "BurnInSun": 0b,
+                                        "StandingState": 0,
+                                        "AttackInvisible": 0b,
+                                        "NpcInteractNPCLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "HurtTime": 0s,
+                                        "WorldUUIDLeast": -7228018660319373861L,
+                                        "WalkingRange": 10,
+                                        "ShotCount": 1,
+                                        "pDur": 5,
+                                        "AttackRange": 1,
+                                        "ActiveRange": 32,
+                                        "NpcKillLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "PotionImmune": 1b,
+                                        "AvoidsSun": 0b,
+                                        "Texture": "customnpcs:textures/entity/humanmale/steve.png",
+                                        "NpcJob": 0,
+                                        "BurstCount": 1,
+                                        "NpcAttackLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "pSpeed": 50,
+                                        "pArea": 0,
+                                        "DeathTime": 0s,
+                                        "pImpact": 0,
+                                        "MoveState": 0,
+                                        "Bukkit.Aware": 1b,
+                                        "pRender3D": 1b,
+                                        "Motion": [
+                                            0.0d,
+                                            -0.0784000015258789d,
+                                            0.0d
+                                        ],
+                                        "CombatRegen": 0,
+                                        "NpcsTimers": [
+                                        ],
+                                        "MarkovGender": 0,
+                                        "pEffect": 0,
+                                        "DistanceToMelee": 1,
+                                        "NpcStepSound": "",
+                                        "FireRate": 1,
+                                        "LeftHanded": 0b,
+                                        "pEffAmp": 0,
+                                        "OnGround": 1b,
+                                        "ImmuneToFire": 0b,
+                                        "OverlayGlowing": 1b,
+                                        "NpcKilledLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "Fire": -1s,
+                                        "ArmorItems": [
+                                            {
+                                            },
+                                            {
+                                            },
+                                            {
+                                            },
+                                            {
+                                            }
+                                        ],
+                                        "DisablePitch": 0b,
+                                        "pPhysics": 0b,
+                                        "TransformHasInv": 0b,
+                                        "NpcInteractLines": {
+                                            "Lines": [
+                                                {
+                                                    "Line": "Hello @p",
+                                                    "Slot": 0,
+                                                    "Song": ""
+                                                }
+                                            ]
+                                        },
+                                        "HurtByTimestamp": 1739103,
+                                        "pSpin": 1b,
+                                        "NpcHurtSound": "minecraft:entity.player.hurt",
+                                        "pTrail": 1,
+                                        "CreatureType": 0,
+                                        "Attributes": [
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "forge:step_height"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "minecraft:generic.armor"
+                                            },
+                                            {
+                                                "Base": 32.0d,
+                                                "Name": "minecraft:generic.follow_range"
+                                            },
+                                            {
+                                                "Base": 6.400000095367432d,
+                                                "Name": "forge:swim_speed"
+                                            },
+                                            {
+                                                "Base": 0.20000000298023224d,
+                                                "Name": "minecraft:generic.movement_speed"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "minecraft:generic.armor_toughness"
+                                            },
+                                            {
+                                                "Base": 60.0d,
+                                                "Name": "minecraft:generic.max_health"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "minecraft:generic.attack_damage"
+                                            },
+                                            {
+                                                "Base": 0.4000000059604645d,
+                                                "Name": "minecraft:generic.flying_speed"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "tacz:tacz.bullet_resistance"
+                                            },
+                                            {
+                                                "Base": 0.08d,
+                                                "Name": "forge:entity_gravity"
+                                            }
+                                        ],
+                                        "Invulnerable": 0b,
+                                        "TransformHasDisplay": 0b,
+                                        "NoFallDamage": 0b,
+                                        "AbsorptionAmount": 0.0f,
+                                        "TransformHasRole": 0b,
+                                        "Name": "гоша.png",
+                                        "FallDistance": 0.0f,
+                                        "SkinColor": 16777215,
+                                        "NpcIdleSound": "",
+                                        "Weapons": [
+                                            {
+                                                "Slot": 0b,
+                                                "id": "tacz:modern_kinetic_gun",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "HasBulletInBarrel": 1b,
+                                                    "GunFireMode": "SEMI",
+                                                    "GunId": "tacz:ai_awp",
+                                                    "GunCurrentAmmoCount": 5
+                                                }
+                                            },
+                                            {
+                                                "Slot": 1b,
+                                                "id": "minecraft:black_candle",
+                                                "Count": 1b
+                                            }
+                                        ],
+                                        "NPCDialogOptions": [
+                                        ],
+                                        "WorldUUIDMost": 4076095592190200132L,
+                                        "AggroRange": 15,
+                                        "DirectLOS": 0b,
+                                        "HealthRegen": 3,
+                                        "ForgeCaps": {
+                                            "tacz:synced_entity_data": [
+                                            ]
+                                        },
+                                        "HandDropChances": [
+                                            0.085f,
+                                            0.085f
+                                        ],
+                                        "NpcModelData": {
+                                            "CustomSkinUrl": "",
+                                            "BodyConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "MoveAnimation": 16,
+                                            "Legs2Config": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "SimpleRender": 0b,
+                                            "ArmsConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "ExtraData": {
+                                            },
+                                            "HeadConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "LegsConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "Arms2Config": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "Parts": [
+                                            ],
+                                            "NewParts": [
+                                            ],
+                                            "WingMode": 0,
+                                            "DisplayName": "",
+                                            "Animation": 0,
+                                            "ModelType": 0,
+                                            "LastEdited": 1740404783646L
+                                        },
+                                        "Spigot.ticksLived": 1846287,
+                                        "VisibleAvailability": {
+                                            "AvailabilityQuestId": -1,
+                                            "AvailabilityScoreboardType": 1,
+                                            "AvailabilityFactionStance": 0,
+                                            "AvailabilityScoreboard2Value": 1,
+                                            "AvailabilityQuest": 0,
+                                            "AvailabilityDialog4": 0,
+                                            "AvailabilityScoreboardObjective": "",
+                                            "AvailabilityDialog3": 0,
+                                            "AvailabilityQuest2": 0,
+                                            "AvailabilityQuest3": 0,
+                                            "AvailabilityScoreboard2Objective": "",
+                                            "AvailabilityQuest4": 0,
+                                            "ModRev": 18,
+                                            "AvailabilityDialog2": 0,
+                                            "AvailabilityDayTime": 0,
+                                            "AvailabilityFaction2Id": -1,
+                                            "AvailabilityScoreboardValue": 1,
+                                            "AvailabilityFaction": 0,
+                                            "AvailabilityDialog": 0,
+                                            "AvailabilityScoreboard2Type": 1,
+                                            "AvailabilityFaction2": 0,
+                                            "AvailabilityFactionId": -1,
+                                            "AvailabilityFaction2Stance": 0,
+                                            "AvailabilityDialogId": -1,
+                                            "AvailabilityQuest4Id": -1,
+                                            "AvailabilityQuest3Id": -1,
+                                            "AvailabilityQuest2Id": -1,
+                                            "AvailabilityDialog2Id": -1,
+                                            "AvailabilityDialog3Id": -1,
+                                            "AvailabilityDialog4Id": -1,
+                                            "AvailabilityMinPlayerLevel": 0
+                                        },
+                                        "minDelay": 30,
+                                        "DoorInteract": 1,
+                                        "MoveSpeed": 4,
+                                        "TransformEditingModus": 0b,
+                                        "UsingSkinUrl": 0b,
+                                        "SkinUrl": "",
+                                        "CanSwim": 1b,
+                                        "GroundSound": "minecraft:block.stone.break",
+                                        "MountControl": 0b,
+                                        "MaxHealth": 60,
+                                        "HideBodyWhenKilled": 1b,
+                                        "AttackSpeed": 40,
+                                        "PotionDuration": 5,
+                                        "maxDelay": 90,
+                                        "ScriptEnabled": 0b,
+                                        "Role": 0,
+                                        "DropChance": [
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 0
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 1
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 2
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 3
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 4
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 5
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 6
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 7
+                                            },
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 8
+                                            }
+                                        ],
+                                        "FactionPoints": {
+                                            "DecreaseFaction1Points": 0b,
+                                            "OptionFaction1Points": 100,
+                                            "OptionFaction2Points": 100,
+                                            "OptionFactions1": -1,
+                                            "DecreaseFaction2Points": 0b,
+                                            "OptionFactions2": -1
+                                        },
+                                        "pDamage": 25,
+                                        "KilledTime": 0L,
+                                        "AimWhileShooting": 1b,
+                                        "CanPickUpLoot": 0b,
+                                        "AttackOtherFactions": 0b,
+                                        "CanDrown": 1b,
+                                        "pSize": 5,
+                                        "CanSprint": 0b,
+                                        "CanLeap": 0b,
+                                        "TransformIsActive": 0b,
+                                        "ForgeData": {
+                                            "cnpcmarkdata": {
+                                                "marks": [
+                                                ]
+                                            }
+                                        },
+                                        "MovingState": 0,
+                                        "MovingPos": 0,
+                                        "PotionAmp": 0,
+                                        "OnAttack": 0,
+                                        "FallFlying": 0b,
+                                        "MaxExp": 0,
+                                        "OrderedLines": 0b,
+                                        "PortalCooldown": 0,
+                                        "pGlows": 1b,
+                                        "TransformHasAdvanced": 0b,
+                                        "TransformHasStats": 0b,
+                                        "MovementType": 0,
+                                        "FiringSound": "customnpcs:gun.pistol.shot",
+                                        "ModRev": 18,
+                                        "Accuracy": 99,
+                                        "MinExp": 0,
+                                        "Armor": [
+                                            {
+                                                "Slot": 0b,
+                                                "id": "lrarmor:attacker_helmet",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "Damage": 0
+                                                }
+                                            },
+                                            {
+                                                "Slot": 1b,
+                                                "id": "lrarmor:attacker_chestplate",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "Damage": 0
+                                                }
+                                            },
+                                            {
+                                                "Slot": 2b,
+                                                "id": "lrarmor:attacker_leggings",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "Damage": 0
+                                                }
+                                            },
+                                            {
+                                                "Slot": 3b,
+                                                "id": "lrarmor:attacker_boots",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "Damage": 0
+                                                }
+                                            }
+                                        ],
+                                        "CloakTexture": "",
+                                        "GlowTexture": "",
+                                        "MaxFiringRange": 65,
+                                        "pXlr8": 0b,
+                                        "MarkovGeneratorId": 8,
+                                        "Scripts": [
+                                        ],
+                                        "Health": 60.0f,
+                                        "pStick": 0b,
+                                        "MovingPause": 1b,
+                                        "NpcDeathSound": "minecraft:entity.player.hurt",
+                                        "FactionID": 2,
+                                        "Title": "",
+                                        "TotalTicksAlive": 890967L,
+                                        "Rotation": [
+                                            285.30774f,
+                                            0.0f
+                                        ],
+                                        "ShowName": 1,
+                                        "npcInteracting": 1b,
+                                        "AvoidsWater": 0b,
+                                        "NoLivingAnimation": 0b,
+                                        "SpawnCycle": 0
+                                    },
+                                    "Name": "customnpcs:customnpc"
+                                }
+                            },
+                            {
+                                "Slot": 7b,
+                                "id": "customnpcs:npcsoulstonefilled",
+                                "Count": 1b,
+                                "tag": {
+                                    "DisplayName": "boss1",
+                                    "Entity": {
+                                        "ReturnToStart": 1b,
+                                        "Brain": {
+                                            "memories": {
+                                            }
+                                        },
+                                        "NpcInv": [
+                                            {
+                                                "Slot": 0b,
+                                                "id": "tacz:modern_kinetic_gun",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "HasBulletInBarrel": 1b,
+                                                    "GunId": "suffuse:pkp",
+                                                    "AttachmentSCOPE": {
+                                                        "id": "tacz:attachment",
+                                                        "Count": 1b,
+                                                        "tag": {
+                                                            "AttachmentId": "tacz:scope_acog_ta31"
+                                                        }
+                                                    },
+                                                    "GunFireMode": "AUTO",
+                                                    "GunCurrentAmmoCount": 120,
+                                                    "AttachmentGRIP": {
+                                                        "id": "tacz:attachment",
+                                                        "Count": 1b,
+                                                        "tag": {
+                                                            "AttachmentId": "gucci_attachments:grip_cqr"
+                                                        }
+                                                    },
+                                                    "AttachmentSTOCK": {
+                                                        "id": "tacz:attachment",
+                                                        "Count": 1b,
+                                                        "tag": {
+                                                            "AttachmentId": "tacz:oem_stock_heavy"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Slot": 1b,
+                                                "id": "tacz:modern_kinetic_gun",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "HasBulletInBarrel": 1b,
+                                                    "GunFireMode": "AUTO",
+                                                    "GunId": "suffuse:qbu191",
+                                                    "GunCurrentAmmoCount": 30
+                                                }
+                                            },
+                                            {
+                                                "Slot": 2b,
+                                                "id": "tacz:attachment",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "AttachmentId": "tacz:ammo_mod_i"
+                                                }
+                                            },
+                                            {
+                                                "Slot": 3b,
+                                                "id": "tacz:attachment",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "AttachmentId": "tacz:scope_standard_8x"
+                                                }
+                                            },
+                                            {
+                                                "Slot": 4b,
+                                                "id": "tacz:modern_kinetic_gun",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "HasBulletInBarrel": 1b,
+                                                    "GunFireMode": "SEMI",
+                                                    "GunId": "tacz:aa12",
+                                                    "GunCurrentAmmoCount": 8
+                                                }
+                                            },
+                                            {
+                                                "Slot": 5b,
+                                                "id": "tacz:modern_kinetic_gun",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "HasBulletInBarrel": 1b,
+                                                    "GunFireMode": "SEMI",
+                                                    "GunId": "tacz:mk14",
+                                                    "GunCurrentAmmoCount": 10
+                                                }
+                                            },
+                                            {
+                                                "Slot": 6b,
+                                                "id": "tacz:modern_kinetic_gun",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "HasBulletInBarrel": 1b,
+                                                    "GunFireMode": "AUTO",
+                                                    "GunId": "tacz:vector45",
+                                                    "GunCurrentAmmoCount": 19
+                                                }
+                                            },
+                                            {
+                                                "Slot": 7b,
+                                                "id": "tacz:modern_kinetic_gun",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "HasBulletInBarrel": 1b,
+                                                    "GunFireMode": "SEMI",
+                                                    "GunId": "tacz:scar_h",
+                                                    "GunCurrentAmmoCount": 20
+                                                }
+                                            },
+                                            {
+                                                "Slot": 8b,
+                                                "id": "tacz:modern_kinetic_gun",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "HasBulletInBarrel": 1b,
+                                                    "GunFireMode": "SEMI",
+                                                    "GunId": "tacz:ai_awp",
+                                                    "GunCurrentAmmoCount": 5
+                                                }
+                                            }
+                                        ],
+                                        "BossColor": 0,
+                                        "PotionEffect": 0,
+                                        "Size": 5,
+                                        "stopAndInteract": 0b,
+                                        "Resistances": {
+                                            "Arrow": 1.5070423f,
+                                            "Knockback": 2.0f,
+                                            "Melee": 1.5070423f,
+                                            "Explosion": 1.5070423f
+                                        },
+                                        "BossBar": 2b,
+                                        "RespawnTime": 900,
+                                        "NpcAngrySound": "customnpcs:gun.ak47.load",
+                                        "ReactsToFire": 0b,
+                                        "IgnoreCobweb": 0b,
+                                        "PositionOffsetZ": 5.0f,
+                                        "PositionOffsetY": 5.0f,
+                                        "PositionOffsetX": 5.0f,
+                                        "CanUpdate": 1b,
+                                        "LootMode": 0,
+                                        "TransformHasAI": 0b,
+                                        "AttackStrenght": 0,
+                                        "PersistenceRequired": 0b,
+                                        "id": "customnpcs:customnpc",
+                                        "IsStatue": 0b,
+                                        "MovingPatern": 0,
+                                        "NpcLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "DefendFaction": 1b,
+                                        "FireIndirect": 0,
+                                        "NpcVisible": 0,
+                                        "LinkedNpcName": "",
+                                        "NpcScenes": {
+                                            "Scenes": [
+                                            ]
+                                        },
+                                        "Bukkit.updateLevel": 2,
+                                        "HitSound": "tacz:target_block_hit",
+                                        "FindShelter": 2,
+                                        "Air": 300s,
+                                        "Orientation": 0,
+                                        "ScriptLanguage": "ECMAScript",
+                                        "HandItems": [
+                                            {
+                                            },
+                                            {
+                                            }
+                                        ],
+                                        "KnockBack": 0,
+                                        "TransformHasJob": 0b,
+                                        "ArmorDropChances": [
+                                            0.085f,
+                                            0.085f,
+                                            0.085f,
+                                            0.085f
+                                        ],
+                                        "BurnInSun": 0b,
+                                        "StandingState": 0,
+                                        "AttackInvisible": 0b,
+                                        "NpcInteractNPCLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "HurtTime": 0s,
+                                        "WorldUUIDLeast": -7228018660319373861L,
+                                        "WalkingRange": 10,
+                                        "ShotCount": 2,
+                                        "pDur": 5,
+                                        "AttackRange": 2,
+                                        "ActiveRange": 32,
+                                        "NpcKillLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "PotionImmune": 1b,
+                                        "AvoidsSun": 0b,
+                                        "Texture": "customnpcs:textures/entity/humanmale/steve.png",
+                                        "NpcJob": 0,
+                                        "BurstCount": 100,
+                                        "NpcAttackLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "pSpeed": 15,
+                                        "pArea": 0,
+                                        "DeathTime": 0s,
+                                        "pImpact": 0,
+                                        "MoveState": 0,
+                                        "Bukkit.Aware": 1b,
+                                        "pRender3D": 1b,
+                                        "Motion": [
+                                            0.0d,
+                                            -0.0784000015258789d,
+                                            0.0d
+                                        ],
+                                        "CombatRegen": 20,
+                                        "NpcsTimers": [
+                                        ],
+                                        "MarkovGender": 0,
+                                        "pEffect": 0,
+                                        "DistanceToMelee": 0,
+                                        "NpcStepSound": "minecraft:block.nether_bricks.step",
+                                        "FireRate": 2,
+                                        "LeftHanded": 0b,
+                                        "pEffAmp": 0,
+                                        "OnGround": 1b,
+                                        "ImmuneToFire": 0b,
+                                        "OverlayGlowing": 1b,
+                                        "NpcKilledLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "Fire": -1s,
+                                        "ArmorItems": [
+                                            {
+                                            },
+                                            {
+                                            },
+                                            {
+                                            },
+                                            {
+                                            }
+                                        ],
+                                        "DisablePitch": 0b,
+                                        "pPhysics": 0b,
+                                        "TransformHasInv": 0b,
+                                        "NpcInteractLines": {
+                                            "Lines": [
+                                            ]
+                                        },
+                                        "HurtByTimestamp": 1152398,
+                                        "pSpin": 1b,
+                                        "NpcHurtSound": "tacz:target_block_hit",
+                                        "pTrail": 1,
+                                        "CreatureType": 0,
+                                        "Attributes": [
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "forge:step_height"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "minecraft:generic.armor"
+                                            },
+                                            {
+                                                "Base": 32.0d,
+                                                "Name": "minecraft:generic.follow_range"
+                                            },
+                                            {
+                                                "Base": 6.400000095367432d,
+                                                "Name": "forge:swim_speed"
+                                            },
+                                            {
+                                                "Base": 0.20000000298023224d,
+                                                "Name": "minecraft:generic.movement_speed"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "minecraft:generic.armor_toughness"
+                                            },
+                                            {
+                                                "Base": 5000.0d,
+                                                "Name": "minecraft:generic.max_health"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "minecraft:generic.attack_damage"
+                                            },
+                                            {
+                                                "Base": 0.4000000059604645d,
+                                                "Name": "minecraft:generic.flying_speed"
+                                            },
+                                            {
+                                                "Base": 0.0d,
+                                                "Name": "tacz:tacz.bullet_resistance"
+                                            },
+                                            {
+                                                "Base": 0.08d,
+                                                "Name": "forge:entity_gravity"
+                                            }
+                                        ],
+                                        "Invulnerable": 0b,
+                                        "TransformHasDisplay": 0b,
+                                        "NoFallDamage": 0b,
+                                        "AbsorptionAmount": 0.0f,
+                                        "TransformHasRole": 0b,
+                                        "Name": "boss1",
+                                        "FallDistance": 0.0f,
+                                        "SkinColor": 16777215,
+                                        "NpcIdleSound": "tacz:gun",
+                                        "Weapons": [
+                                            {
+                                                "Slot": 0b,
+                                                "id": "tacz:modern_kinetic_gun",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "HasBulletInBarrel": 1b,
+                                                    "GunFireMode": "AUTO",
+                                                    "GunId": "suffuse:pkp",
+                                                    "GunCurrentAmmoCount": 120
+                                                }
+                                            },
+                                            {
+                                                "Slot": 1b,
+                                                "id": "minecraft:polished_blackstone_button",
+                                                "Count": 1b
+                                            }
+                                        ],
+                                        "NPCDialogOptions": [
+                                        ],
+                                        "WorldUUIDMost": 4076095592190200132L,
+                                        "AggroRange": 25,
+                                        "DirectLOS": 1b,
+                                        "HealthRegen": 50,
+                                        "ForgeCaps": {
+                                            "tacz:synced_entity_data": [
+                                            ]
+                                        },
+                                        "HandDropChances": [
+                                            0.085f,
+                                            0.085f
+                                        ],
+                                        "NpcModelData": {
+                                            "CustomSkinUrl": "",
+                                            "BodyConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "MoveAnimation": 16,
+                                            "Legs2Config": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "SimpleRender": 0b,
+                                            "ArmsConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "ExtraData": {
+                                            },
+                                            "HeadConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "LegsConfig": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "Arms2Config": {
+                                                "NotShared": 0b,
+                                                "ScaleZ": 1.0f,
+                                                "TransZ": 0.0f,
+                                                "TransY": 0.0f,
+                                                "TransX": 0.0f,
+                                                "ScaleY": 1.0f,
+                                                "ScaleX": 1.0f
+                                            },
+                                            "Parts": [
+                                            ],
+                                            "NewParts": [
+                                            ],
+                                            "WingMode": 0,
+                                            "DisplayName": "",
+                                            "Animation": 0,
+                                            "ModelType": 0,
+                                            "LastEdited": 1740495934090L
+                                        },
+                                        "Spigot.ticksLived": 1284488,
+                                        "VisibleAvailability": {
+                                            "AvailabilityQuestId": -1,
+                                            "AvailabilityScoreboardType": 1,
+                                            "AvailabilityFactionStance": 0,
+                                            "AvailabilityScoreboard2Value": 1,
+                                            "AvailabilityQuest": 0,
+                                            "AvailabilityDialog4": 0,
+                                            "AvailabilityScoreboardObjective": "",
+                                            "AvailabilityDialog3": 0,
+                                            "AvailabilityQuest2": 0,
+                                            "AvailabilityQuest3": 0,
+                                            "AvailabilityScoreboard2Objective": "",
+                                            "AvailabilityQuest4": 0,
+                                            "ModRev": 18,
+                                            "AvailabilityDialog2": 0,
+                                            "AvailabilityDayTime": 0,
+                                            "AvailabilityFaction2Id": -1,
+                                            "AvailabilityScoreboardValue": 1,
+                                            "AvailabilityFaction": 0,
+                                            "AvailabilityDialog": 0,
+                                            "AvailabilityScoreboard2Type": 1,
+                                            "AvailabilityFaction2": 0,
+                                            "AvailabilityFactionId": -1,
+                                            "AvailabilityFaction2Stance": 0,
+                                            "AvailabilityDialogId": -1,
+                                            "AvailabilityQuest4Id": -1,
+                                            "AvailabilityQuest3Id": -1,
+                                            "AvailabilityQuest2Id": -1,
+                                            "AvailabilityDialog2Id": -1,
+                                            "AvailabilityDialog3Id": -1,
+                                            "AvailabilityDialog4Id": -1,
+                                            "AvailabilityMinPlayerLevel": 0
+                                        },
+                                        "minDelay": 100,
+                                        "DoorInteract": 2,
+                                        "MoveSpeed": 4,
+                                        "TransformEditingModus": 0b,
+                                        "UsingSkinUrl": 0b,
+                                        "SkinUrl": "",
+                                        "CanSwim": 1b,
+                                        "GroundSound": "customnpcs:gun.empty",
+                                        "MountControl": 0b,
+                                        "MaxHealth": 5000,
+                                        "HideBodyWhenKilled": 0b,
+                                        "AttackSpeed": 20,
+                                        "PotionDuration": 5,
+                                        "maxDelay": 100,
+                                        "ScriptEnabled": 0b,
+                                        "Role": 0,
+                                        "DropChance": [
+                                            {
+                                                "Integer": 100.0f,
+                                                "Slot": 0
+                                            },
+                                            {
+                                                "Integer": 45.0f,
+                                                "Slot": 1
+                                            },
+                                            {
+                                                "Integer": 40.0f,
+                                                "Slot": 2
+                                            },
+                                            {
+                                                "Integer": 40.0f,
+                                                "Slot": 3
+                                            },
+                                            {
+                                                "Integer": 20.0f,
+                                                "Slot": 4
+                                            },
+                                            {
+                                                "Integer": 15.0f,
+                                                "Slot": 5
+                                            },
+                                            {
+                                                "Integer": 10.0f,
+                                                "Slot": 6
+                                            },
+                                            {
+                                                "Integer": 5.0f,
+                                                "Slot": 7
+                                            },
+                                            {
+                                                "Integer": 2.0f,
+                                                "Slot": 8
+                                            }
+                                        ],
+                                        "FactionPoints": {
+                                            "DecreaseFaction1Points": 0b,
+                                            "OptionFaction1Points": 100,
+                                            "OptionFaction2Points": 100,
+                                            "OptionFactions1": -1,
+                                            "DecreaseFaction2Points": 0b,
+                                            "OptionFactions2": -1
+                                        },
+                                        "pDamage": 3,
+                                        "KilledTime": 0L,
+                                        "AimWhileShooting": 1b,
+                                        "CanPickUpLoot": 0b,
+                                        "AttackOtherFactions": 1b,
+                                        "CanDrown": 1b,
+                                        "pSize": 5,
+                                        "CanSprint": 0b,
+                                        "CanLeap": 0b,
+                                        "TransformIsActive": 0b,
+                                        "ForgeData": {
+                                            "cnpcmarkdata": {
+                                                "marks": [
+                                                ]
+                                            }
+                                        },
+                                        "MovingState": 0,
+                                        "MovingPos": 0,
+                                        "PotionAmp": 0,
+                                        "OnAttack": 0,
+                                        "FallFlying": 0b,
+                                        "MaxExp": 0,
+                                        "OrderedLines": 0b,
+                                        "PortalCooldown": 0,
+                                        "pGlows": 0b,
+                                        "TransformHasAdvanced": 0b,
+                                        "TransformHasStats": 0b,
+                                        "MovementType": 0,
+                                        "FiringSound": "customnpcs:gun.pistol.shot",
+                                        "ModRev": 18,
+                                        "Accuracy": 75,
+                                        "MinExp": 0,
+                                        "Armor": [
+                                            {
+                                                "Slot": 0b,
+                                                "id": "lrarmor:defender_helmet",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "Damage": 0
+                                                }
+                                            },
+                                            {
+                                                "Slot": 1b,
+                                                "id": "lrarmor:defender_chestplate",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "Damage": 0
+                                                }
+                                            },
+                                            {
+                                                "Slot": 2b,
+                                                "id": "lrarmor:defender_leggings",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "Damage": 0
+                                                }
+                                            },
+                                            {
+                                                "Slot": 3b,
+                                                "id": "lrarmor:defender_boots",
+                                                "Count": 1b,
+                                                "tag": {
+                                                    "Damage": 0
+                                                }
+                                            }
+                                        ],
+                                        "CloakTexture": "",
+                                        "GlowTexture": "",
+                                        "MaxFiringRange": 40,
+                                        "pXlr8": 0b,
+                                        "MarkovGeneratorId": 1,
+                                        "Scripts": [
+                                        ],
+                                        "Health": 2048.0f,
+                                        "pStick": 0b,
+                                        "MovingPause": 0b,
+                                        "NpcDeathSound": "knock_down:injector_use",
+                                        "FactionID": 2,
+                                        "Title": "",
+                                        "TotalTicksAlive": 688697L,
+                                        "Rotation": [
+                                            48.356445f,
+                                            0.0f
+                                        ],
+                                        "ShowName": 1,
+                                        "npcInteracting": 1b,
+                                        "AvoidsWater": 0b,
+                                        "NoLivingAnimation": 0b,
+                                        "SpawnCycle": 0
+                                    },
+                                    "Name": "customnpcs:customnpc"
+                                }
+                            }
+                        ]
+                    },
+                    "Slot": 3
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 45b,
+                                "id": "minecraft:gunpowder",
+                                "Count": 12b
+                            },
+                            {
+                                "Slot": 46b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "HasBulletInBarrel": 0b,
+                                    "GunId": "tacz:vector45",
+                                    "AttachmentSCOPE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "AttachmentMUZZLE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 0,
+                                    "AttachmentSTOCK": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 48b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:light_extended_mag_3"
+                                }
+                            },
+                            {
+                                "Slot": 49b,
+                                "id": "minecraft:dirt",
+                                "Count": 1b
+                            },
+                            {
+                                "Slot": 50b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:stock_tactical_ar"
+                                }
+                            },
+                            {
+                                "Slot": 52b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "gucci_attachments:muzzle_s_fd197"
+                                }
+                            }
+                        ]
+                    },
+                    "Slot": 4
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:ai_awp",
+                                    "GunCurrentAmmoCount": 5
+                                }
+                            },
+                            {
+                                "Slot": 1b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:extended_mag_3"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "tacz:mk14",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:sight_coyote"
+                                        }
+                                    },
+                                    "AttachmentMUZZLE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:muzzle_silence_phantom_s1"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 20,
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:stock_tactical_ar"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 3b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 0,
+                                    "AttachmentGRIP": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 4b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:scope_acog_ta31"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 120,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_cqr"
+                                        }
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:oem_stock_heavy"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 6b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentMUZZLE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:muzzle_s_fd197"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 0b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "suffuse:aw50",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:scope_karrina"
+                                        }
+                                    },
+                                    "GunCurrentAmmoCount": 5
+                                }
+                            },
+                            {
+                                "Slot": 7b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "suffuse:gm6",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:scope_karrina"
+                                        }
+                                    },
+                                    "GunCurrentAmmoCount": 5,
+                                    "AttachmentGRIP": {
+                                        "id": "minecraft:air",
+                                        "Count": 0b
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 8b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:scope_lpvo_1_6"
+                                }
+                            },
+                            {
+                                "Slot": 9b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:ai_awp",
+                                    "GunCurrentAmmoCount": 5
+                                }
+                            },
+                            {
+                                "Slot": 10b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:qbu191",
+                                    "GunCurrentAmmoCount": 28
+                                }
+                            },
+                            {
+                                "Slot": 11b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "tacz:scar_h",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 12b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:scope_acog_ta31"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 120,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_cqr"
+                                        }
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:oem_stock_heavy"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 13b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:scope_standard_8x"
+                                }
+                            },
+                            {
+                                "Slot": 18b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:ammo_mod_i"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:ai_awp",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:scope_standard_8x"
+                                        }
+                                    },
+                                    "GunCurrentAmmoCount": 5
+                                }
+                            },
+                            {
+                                "Slot": 19b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:aa12",
+                                    "GunCurrentAmmoCount": 8
+                                }
+                            },
+                            {
+                                "Slot": 20b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "tacz:scar_h",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 21b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:scope_acog_ta31"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 120,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_cqr"
+                                        }
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:oem_stock_heavy"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 22b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:scope_standard_8x"
+                                }
+                            },
+                            {
+                                "Slot": 27b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:mk14",
+                                    "GunCurrentAmmoCount": 6
+                                }
+                            },
+                            {
+                                "Slot": 28b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:aa12",
+                                    "GunCurrentAmmoCount": 8
+                                }
+                            },
+                            {
+                                "Slot": 29b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "tacz:scar_h",
+                                    "GunCurrentAmmoCount": 20
+                                }
+                            },
+                            {
+                                "Slot": 30b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:scope_acog_ta31"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 120,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_cqr"
+                                        }
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:oem_stock_heavy"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 31b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:scope_standard_8x"
+                                }
+                            },
+                            {
+                                "Slot": 36b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:mk14",
+                                    "GunCurrentAmmoCount": 10
+                                }
+                            },
+                            {
+                                "Slot": 37b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "tacz:vector45",
+                                    "GunCurrentAmmoCount": 19
+                                }
+                            },
+                            {
+                                "Slot": 38b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:qbu191",
+                                    "GunCurrentAmmoCount": 28
+                                }
+                            },
+                            {
+                                "Slot": 39b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:scope_acog_ta31"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 120,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_cqr"
+                                        }
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:oem_stock_heavy"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 40b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:scope_standard_8x"
+                                }
+                            },
+                            {
+                                "Slot": 45b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "SEMI",
+                                    "GunId": "tacz:mk14",
+                                    "GunCurrentAmmoCount": 10
+                                }
+                            },
+                            {
+                                "Slot": 46b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "tacz:vector45",
+                                    "GunCurrentAmmoCount": 19
+                                }
+                            },
+                            {
+                                "Slot": 47b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunFireMode": "AUTO",
+                                    "GunId": "suffuse:qbu191",
+                                    "GunCurrentAmmoCount": 28
+                                }
+                            },
+                            {
+                                "Slot": 48b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "suffuse:pkp",
+                                    "AttachmentSCOPE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:scope_acog_ta31"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 120,
+                                    "AttachmentGRIP": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:grip_cqr"
+                                        }
+                                    },
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:oem_stock_heavy"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Slot": 49b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:ammo_mod_i"
+                                }
+                            },
+                            {
+                                "Slot": 50b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:ammo_mod_i"
+                                }
+                            },
+                            {
+                                "Slot": 51b,
+                                "id": "tacz:attachment",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentId": "tacz:ammo_mod_i"
+                                }
+                            }
+                        ]
+                    },
+                    "Slot": 5
+                }
+            ],
+            "UpdatedSlots": [
+                {
+                    "Slot": 0,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 1,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 2,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 3,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 4,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 5,
+                    "Boolean": 1b
+                }
+            ],
+            "DataBankId": 1,
+            "UnlockedSlots": 6
+        }
+    ],
+    "jacket": 0,
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 13318016L
+            },
+            {
+                "Quest": 2,
+                "Date": 20475665L
+            },
+            {
+                "Quest": 3,
+                "Date": 20479734L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "shoes": 0,
+    "ItemGiverChained": [
+    ],
+    "isMale": 0b,
+    "face": 0,
+    "peculiarities": [I;]
+}
