@@ -7,6 +7,9 @@
     "isActive": 0b,
     "DialogData": [
         {
+            "Dialog": 6
+        },
+        {
             "Dialog": 14
         }
     ],
@@ -20,6 +23,9 @@
     "ScriptStoreddata": {
     },
     "TransportData": [
+        {
+            "Transport": 2
+        }
     ],
     "NpcsTimers": [
     ],
@@ -39,6 +45,38 @@
                 {
                     "BankItems": {
                         "NpcMiscInv": [
+                            {
+                                "Slot": 1b,
+                                "id": "tacz:modern_kinetic_gun",
+                                "Count": 1b,
+                                "tag": {
+                                    "AttachmentEXTENDED_MAG": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "tacz:extended_mag_2"
+                                        }
+                                    },
+                                    "HasBulletInBarrel": 1b,
+                                    "GunId": "tacz:rpk",
+                                    "AttachmentMUZZLE": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:muzzle_s_fd197"
+                                        }
+                                    },
+                                    "GunFireMode": "AUTO",
+                                    "GunCurrentAmmoCount": 60,
+                                    "AttachmentSTOCK": {
+                                        "id": "tacz:attachment",
+                                        "Count": 1b,
+                                        "tag": {
+                                            "AttachmentId": "gucci_attachments:stock_heavy2"
+                                        }
+                                    }
+                                }
+                            }
                         ]
                     },
                     "Slot": 0
